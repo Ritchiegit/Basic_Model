@@ -3,3 +3,6 @@
 .h5
 .tfrecord
 data/
+pytorch_basic/
+.ipynb_checkpoints/
+.vscode/
